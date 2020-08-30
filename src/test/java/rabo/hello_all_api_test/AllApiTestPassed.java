@@ -11,7 +11,7 @@ public class AllApiTestPassed {
 	@RequestMapping("/hello")
 	@ResponseBody
 	public String sayHello() {
-	return "“Hello, all API tests were successful'";
+	return "“Hello, all API tests were successfull'";
 	}
 }
 
